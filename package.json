@@ -1,0 +1,17 @@
+{
+  "name": "github-repo-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://keyeypee.github.io/github-repo-search",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "gh-pages": "^3.2.3"
+  }
+}
