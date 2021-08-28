@@ -237,7 +237,6 @@ form .group button {
         flex-direction: column-reverse;
         align-items: flex-start;
     }
-
     #filters .filter-btn-cover:first-child {
         margin: 0;
         margin-top: 16px;
